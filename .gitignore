@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+config.json
+build/
+dist/
+*.spec
+Python-manager-26.3.msix
+捆绑运行时
